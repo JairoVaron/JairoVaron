@@ -208,7 +208,7 @@ Calculadora de notas y proyección académica.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:4A1942,100:8E2A1C&text=En%20construcci%C3%B3n&fontSize=28&fontColor=FFF5E1&fontAlign=50&fontAlignY=50" width="100%" alt="En construcción"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/EnlaceExpress-Base%20de%20Datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="EnlaceExpress"/>
 <img src="https://img.shields.io/badge/SmartRoute-Optimizaci%C3%B3n%20de%20Rutas-8E2A1C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="SmartRoute"/>
