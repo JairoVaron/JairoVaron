@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  # Tarjetas de estadisticas (se guardan en profile-summary-card-output/radical/)
+  # Tarjetas de estadisticas en tonos calidos (carpeta profile-summary-card-output/gruvbox/)
   tarjetas:
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -19,18 +19,15 @@ jobs:
       - name: Generar tarjetas de resumen
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Si falla con "Resource not accessible by integration",
-          # crea un token personal, guardalo como secreto SUMMARY_GITHUB_TOKEN
-          # y reemplaza esta linea por: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: -5
           AUTO_PUSH: true
-          THEME: "radical"
+          THEME: "gruvbox"
 
-  # Serpiente de contribuciones (se publica en la rama output)
+  # Serpiente en colores de arena y terracota (rama output)
   serpiente:
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -40,8 +37,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=C1440E&color_dots=#F5EBDD,#F6C177,#E8833A,#C1440E,#8E2A1C
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v3.1.0
