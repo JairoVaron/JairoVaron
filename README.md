@@ -29,8 +29,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:C1440E,100:8E2A1C&text=Sobre%20m%C3%AD&fontSize=28&fontColor=FFF5E1&fontAlign=50&fontAlignY=50" width="100%" alt="Sobre mí"/>
 </div>
@@ -44,7 +42,6 @@
         _.-'''-._                        _.-''-._
    _.-''         ''-._______.-'''-.___.-''        ''-._
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-          LA GUAJIRA  ·  desierto, viento y mar
 ```
 
 ```js
@@ -211,10 +208,6 @@ Calculadora de notas y proyección académica.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:4A1942,100:8E2A1C&text=En%20construcci%C3%B3n&fontSize=28&fontColor=FFF5E1&fontAlign=50&fontAlignY=50" width="100%" alt="En construcción"/>
 
-<br>
-
-<sub>Rumbo a Punta Gallinas, el punto más al norte de Suramérica: todavía hay camino por recorrer.</sub>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/EnlaceExpress-Base%20de%20Datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="EnlaceExpress"/>
@@ -265,24 +258,11 @@ Calculadora de notas y proyección académica.
 
 <i>Si algún proyecto te gustó, regálame una estrella.</i>
 
-<br>
-
-<sub>Hecho en La Guajira, con sol, viento y mucho café.</sub>
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:C1440E,9:C1440E,10:1A1A1A,19:1A1A1A,20:F6C177,29:F6C177,30:F5EBDD,39:F5EBDD,40:1B998B,49:1B998B,50:C1440E,59:C1440E,60:1A1A1A,69:1A1A1A,70:F6C177,79:F6C177,80:F5EBDD,89:F5EBDD,90:1B998B,100:1B998B" width="100%" alt=""/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F6C177,50:E8833A,100:8E2A1C" width="100%" alt=""/>
-
-<!--
-OPCIONAL: tarjetas y serpiente en colores del desierto.
-Requieren perfil_desierto.yml (tema gruvbox y serpiente color arena).
-Ejecuta el workflow una vez, verifica que existan la carpeta
-profile-summary-card-output/gruvbox y la rama output,
-y luego quita las marcas de comentario de este bloque.
 
 <div align="center">
 <img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/gruvbox/0-profile-details.svg" alt="Resumen del perfil"/>
@@ -291,4 +271,4 @@ y luego quita las marcas de comentario de este bloque.
 <img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Lenguaje con más commits"/>
 <img src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/output/github-snake.svg" alt="Serpiente de contribuciones"/>
 </div>
--->
+
