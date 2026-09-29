@@ -263,12 +263,3 @@ Calculadora de notas y proyección académica.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F6C177,50:E8833A,100:8E2A1C" width="100%" alt=""/>
-
-<div align="center">
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/gruvbox/0-profile-details.svg" alt="Resumen del perfil"/>
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/gruvbox/3-stats.svg" alt="Estadísticas de GitHub"/>
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="Repositorios por lenguaje"/>
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Lenguaje con más commits"/>
-<img src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/output/github-snake.svg" alt="Serpiente de contribuciones"/>
-</div>
-
