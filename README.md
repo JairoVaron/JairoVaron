@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=E8833A&center=true&vCenter=true&width=780&height=50&lines=Hola%2C+soy+Jairo+Var%C3%B3n;Donde+el+desierto+se+encuentra+con+el+mar;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Backend+con+Java+y+Spring+Boot;Python%2C+Django%2C+Node.js+y+m%C3%A1s;Convierto+caf%C3%A9+en+c%C3%B3digo" alt="Jairo Varón - Desarrollador de Software"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/jairo-de-jesus-var%C3%B3n-hern%C3%A1ndez-590648323/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
@@ -22,7 +22,7 @@
 <a href="https://github.com/JairoVaron"><img src="https://img.shields.io/badge/GitHub-JairoVaron-2B1810?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=JairoVaron&style=for-the-badge&color=E8833A&label=VISITAS" alt="Visitas"/>
 
-<br><br>
+<br>
 
 <!-- Franja de colores inspirada en los tejidos wayuu -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:C1440E,9:C1440E,10:1A1A1A,19:1A1A1A,20:F6C177,29:F6C177,30:F5EBDD,39:F5EBDD,40:1B998B,49:1B998B,50:C1440E,59:C1440E,60:1A1A1A,69:1A1A1A,70:F6C177,79:F6C177,80:F5EBDD,89:F5EBDD,90:1B998B,100:1B998B" width="100%" alt=""/>
@@ -44,22 +44,47 @@
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-```js
-const jairo = {
-  rol: "Estudiante de Ingeniería de Sistemas & Desarrollador de Software",
-  origen: "La Guajira, Colombia",
-  paisaje: ["desierto", "dunas", "mar Caribe"],
-  clima: "sol, viento y café",
-  lenguajes: ["Java", "Python", "JavaScript"],
-  frameworks: ["Spring Boot", "Django", "Express.js"],
-  basesDeDatos: ["MySQL", "PostgreSQL"],
-  construyendoAhora: ["EnlaceExpress", "SmartRoute"],
-  aprendiendo: "Arquitectura de software, Docker y buenas prácticas",
-  objetivo: "Crear software que resuelva problemas reales",
-  saludar() {
-    return "Hablemos de código, ideas o proyectos.";
-  },
-};
+```python
+jairo = {
+    "rol": "Estudiante de Ingeniería de Sistemas",
+    "enfoque": "Desarrollo de Software",
+    "ubicacion": "La Guajira, Colombia",
+
+    "lenguajes": [
+        "Java",
+        "Python",
+        "JavaScript"
+    ],
+
+    "tecnologias": [
+        "Node.js",
+        "Spring Boot",
+        "Django",
+        "Express.js"
+    ],
+
+    "bases_de_datos": [
+        "MySQL",
+        "PostgreSQL",
+        "SQL Server",
+        "Oracle"
+    ],
+
+    "aprendiendo": [
+        "Oracle",
+        "PostgreSQL",
+        "SQL Server",
+        "Docker",
+        "Arquitectura de Software"
+    ],
+
+    "construyendo": [
+        "EnlaceExpress",
+        "SmartRoute"
+    ],
+
+    "objetivo": "Crear software que resuelva problemas reales"
+}
 ```
 
 <br>
