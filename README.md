@@ -259,7 +259,3 @@ hello_world(print)
 <i>Si algún proyecto te gustó, regálame una estrella.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:C1440E,9:C1440E,10:1A1A1A,19:1A1A1A,20:F6C177,29:F6C177,30:F5EBDD,39:F5EBDD,40:1B998B,49:1B998B,50:C1440E,59:C1440E,60:1A1A1A,69:1A1A1A,70:F6C177,79:F6C177,80:F5EBDD,89:F5EBDD,90:1B998B,100:1B998B" width="100%" alt=""/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F6C177,50:E8833A,100:8E2A1C" width="100%" alt=""/>
