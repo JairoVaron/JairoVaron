@@ -33,6 +33,12 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:C1440E,100:8E2A1C&text=Sobre%20m%C3%AD&fontSize=28&fontColor=FFF5E1&fontAlign=50&fontAlignY=50" width="100%" alt="Sobre mí"/>
 </div>
 
+```python
+def hello_world():
+    print("Hello, world!")
+hello_world(print)
+```
+
 ```text
                         .  .  .
                    .   \  |  /   .
@@ -44,55 +50,15 @@
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-```lua
-local function helloWorld()
-    print("Hello, world!")
-end
-
-helloWorld()
-```
-
-<br>
-
 ```python
 jairo = {
     "rol": "Estudiante de Ingeniería de Sistemas",
     "enfoque": "Desarrollo de Software",
-    "ubicacion": "La Guajira, Colombia",
-
-    "lenguajes": [
-        "Java",
-        "Python",
-        "JavaScript"
-    ],
-
-    "tecnologias": [
-        "Node.js",
-        "Spring Boot",
-        "Django",
-        "Express.js"
-    ],
-
-    "bases_de_datos": [
-        "MySQL",
-        "PostgreSQL",
-        "SQL Server",
-        "Oracle"
-    ],
-
-    "aprendiendo": [
-        "Oracle",
-        "PostgreSQL",
-        "SQL Server",
-        "Docker",
-        "Arquitectura de Software"
-    ],
-
-    "construyendo": [
-        "EnlaceExpress",
-        "SmartRoute"
-    ],
-
+    "lenguajes": ["Java", "Python", "JavaScript"],
+    "backend": ["Spring Boot", "Django", "Node.js", "Express.js"],
+    "basesDeDatos": ["MySQL", "PostgreSQL", "SQL Server", "Oracle"],
+    "aprendiendo": ["Docker", "Oracle", "PostgreSQL", "SQL Server"],
+    "proyectos": ["EnlaceExpress", "SmartRoute"],
     "objetivo": "Crear software que resuelva problemas reales"
 }
 ```
