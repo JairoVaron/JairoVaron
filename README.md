@@ -82,33 +82,109 @@ const jairo = {
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:F7971E,100:FFD200&text=Proyectos%20destacados&fontSize=28&fontColor=1A1A1A&fontAlign=50&fontAlignY=50" width="100%" alt="Proyectos destacados"/>
-
-<br>
-
-<a href="https://github.com/JairoVaron/CHATintegrity"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JairoVaron&repo=CHATintegrity&theme=radical&hide_border=true" alt="CHATintegrity"/></a>
-<a href="https://github.com/JairoVaron/springboot-student-crud"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JairoVaron&repo=springboot-student-crud&theme=radical&hide_border=true" alt="Student CRUD"/></a>
-<a href="https://github.com/JairoVaron/asistencia_docente_"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JairoVaron&repo=asistencia_docente_&theme=radical&hide_border=true" alt="Gestión de Asistencias"/></a>
-<a href="https://github.com/JairoVaron/sistema-gestion-empleados-java-web"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JairoVaron&repo=sistema-gestion-empleados-java-web&theme=radical&hide_border=true" alt="NóminaVerde"/></a>
-<a href="https://github.com/JairoVaron/Sistema-de-Gesti-n-de-Biblioteca---JAVA"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JairoVaron&repo=Sistema-de-Gesti-n-de-Biblioteca---JAVA&theme=radical&hide_border=true" alt="Biblioteca"/></a>
-<a href="https://github.com/JairoVaron/Calculadora-de-Notas"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JairoVaron&repo=Calculadora-de-Notas&theme=radical&hide_border=true" alt="NotaLab"/></a>
-
 </div>
 
-<details>
-<summary><b>Detalle de cada proyecto</b></summary>
-
 <br>
 
-| Proyecto | Descripción | Tecnologías |
-|:--|:--|:--|
-| **CHATintegrity** | Plataforma de comunicación empresarial en tiempo real | `Node.js` `Express.js` `Socket.IO` `PostgreSQL` |
-| **Student CRUD** | Sistema web para gestión de estudiantes | `Java` `Spring Boot` `JPA` `MySQL` |
-| **Gestión de Asistencias** | Sistema web para gestionar docentes y asistencias | `Python` `Django` `MySQL` |
-| **NóminaVerde** | Sistema web para gestión de empleados | `Java` `Servlets` `JSP` `JDBC` `MySQL` |
-| **Biblioteca** | Sistema de gestión de libros para escritorio | `Java` `Swing` `NetBeans` |
-| **NotaLab** | Calculadora de notas y proyección académica | `HTML` `CSS` `JavaScript` |
+<table>
+<tr>
 
-</details>
+<td width="50%" valign="top">
+
+#### [CHATintegrity](https://github.com/JairoVaron/CHATintegrity)
+Plataforma de comunicación empresarial en tiempo real.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+<img src="https://img.shields.io/github/stars/JairoVaron/CHATintegrity?style=flat-square&color=FFD200&label=estrellas" alt="Estrellas"/>
+<img src="https://img.shields.io/github/last-commit/JairoVaron/CHATintegrity?style=flat-square&color=DD2476&label=actualizado" alt="Última actualización"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+#### [Student CRUD](https://github.com/JairoVaron/springboot-student-crud)
+Sistema web para gestión de estudiantes.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" alt="JPA"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<img src="https://img.shields.io/github/stars/JairoVaron/springboot-student-crud?style=flat-square&color=FFD200&label=estrellas" alt="Estrellas"/>
+<img src="https://img.shields.io/github/last-commit/JairoVaron/springboot-student-crud?style=flat-square&color=DD2476&label=actualizado" alt="Última actualización"/>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### [Gestión de Asistencias](https://github.com/JairoVaron/asistencia_docente_)
+Sistema web para gestionar docentes y asistencias.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<img src="https://img.shields.io/github/stars/JairoVaron/asistencia_docente_?style=flat-square&color=FFD200&label=estrellas" alt="Estrellas"/>
+<img src="https://img.shields.io/github/last-commit/JairoVaron/asistencia_docente_?style=flat-square&color=DD2476&label=actualizado" alt="Última actualización"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+#### [NóminaVerde](https://github.com/JairoVaron/sistema-gestion-empleados-java-web)
+Sistema web para gestión de empleados.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Servlets-007396?style=flat-square" alt="Servlets"/>
+<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square" alt="JSP"/>
+<img src="https://img.shields.io/badge/JDBC-5382A1?style=flat-square" alt="JDBC"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<img src="https://img.shields.io/github/stars/JairoVaron/sistema-gestion-empleados-java-web?style=flat-square&color=FFD200&label=estrellas" alt="Estrellas"/>
+<img src="https://img.shields.io/github/last-commit/JairoVaron/sistema-gestion-empleados-java-web?style=flat-square&color=DD2476&label=actualizado" alt="Última actualización"/>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### [Biblioteca](https://github.com/JairoVaron/Sistema-de-Gesti-n-de-Biblioteca---JAVA)
+Sistema de gestión de libros para escritorio.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square" alt="Swing"/>
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/>
+
+<img src="https://img.shields.io/github/stars/JairoVaron/Sistema-de-Gesti-n-de-Biblioteca---JAVA?style=flat-square&color=FFD200&label=estrellas" alt="Estrellas"/>
+<img src="https://img.shields.io/github/last-commit/JairoVaron/Sistema-de-Gesti-n-de-Biblioteca---JAVA?style=flat-square&color=DD2476&label=actualizado" alt="Última actualización"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+#### [NotaLab](https://github.com/JairoVaron/Calculadora-de-Notas)
+Calculadora de notas y proyección académica.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<img src="https://img.shields.io/github/stars/JairoVaron/Calculadora-de-Notas?style=flat-square&color=FFD200&label=estrellas" alt="Estrellas"/>
+<img src="https://img.shields.io/github/last-commit/JairoVaron/Calculadora-de-Notas?style=flat-square&color=DD2476&label=actualizado" alt="Última actualización"/>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -125,24 +201,18 @@ const jairo = {
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:FF512F,100:DD2476&text=Estad%C3%ADsticas&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" width="100%" alt="Estadísticas"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:FF512F,100:DD2476&text=GitHub%20en%20n%C3%BAmeros&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" width="100%" alt="GitHub en números"/>
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JairoVaron&show_icons=true&theme=radical&hide_border=true&locale=es&count_private=true" alt="Estadísticas de GitHub"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoVaron&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+<!-- Estas tarjetas las genera el workflow perfil.yml y se guardan en tu propio repositorio -->
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Resumen del perfil"/>
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/3-stats.svg" alt="Estadísticas de GitHub"/>
 
-<br><br>
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositorios por lenguaje"/>
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Lenguaje con más commits"/>
 
-<img src="https://streak-stats.demolab.com?user=JairoVaron&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JairoVaron&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trofeos"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JairoVaron&theme=redical&hide_border=true&area=true" width="100%" alt="Actividad"/>
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Horario más productivo"/>
 
 </div>
 
@@ -153,7 +223,7 @@ const jairo = {
 
 <br>
 
-<!-- Requiere el workflow .github/workflows/snake.yml y que este repo se llame JairoVaron/JairoVaron -->
+<!-- La serpiente la genera el workflow perfil.yml en la rama output -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JairoVaron/JairoVaron/output/github-snake-dark.svg"/>
   <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/output/github-snake.svg"/>

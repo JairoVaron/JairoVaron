@@ -1,0 +1,52 @@
+name: Actualizar perfil
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # cada 12 horas
+  workflow_dispatch:          # permite ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  # Tarjetas de estadisticas (se guardan en profile-summary-card-output/radical/)
+  tarjetas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar tarjetas de resumen
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Si falla con "Resource not accessible by integration",
+          # crea un token personal, guardalo como secreto SUMMARY_GITHUB_TOKEN
+          # y reemplaza esta linea por: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -5
+          AUTO_PUSH: true
+          THEME: "radical"
+
+  # Serpiente de contribuciones (se publica en la rama output)
+  serpiente:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generar serpiente
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
