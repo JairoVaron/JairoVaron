@@ -44,6 +44,16 @@
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
+```lua
+local function helloWorld()
+    print("Hello, world!")
+end
+
+helloWorld()
+```
+
+<br>
+
 ```python
 jairo = {
     "rol": "Estudiante de Ingeniería de Sistemas",
