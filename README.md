@@ -24,7 +24,7 @@
 
 <div align="center">
 
-`Java` `Spring Boot` `Python` `Django` `C#` `.NET` `JavaScript` `Node.js` `SQL`
+`Java` `Spring Boot` `Python` `Django` `JavaScript` `Node.js` `SQL`
 
 </div>
 
