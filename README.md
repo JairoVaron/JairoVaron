@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Jairo%20Var%C3%B3n&fontSize=64&fontColor=FFF5E1&fontAlign=50&fontAlignY=36&color=0:1B0B2E,35:8E2A1C,70:E8833A,100:F6C177&animation=fadeIn&desc=Desde%20La%20Guajira%2C%20Colombia%20%7C%20Desarrollo%20de%20Software&descSize=20&descAlign=50&descAlignY=58" width="100%" alt="Jairo Varón - Desde La Guajira, Colombia"/>
-
 <a href="https://github.com/JairoVaron">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=E8833A&center=true&vCenter=true&width=780&height=50&lines=Hola%2C+soy+Jairo+Var%C3%B3n;Donde+el+desierto+se+encuentra+con+el+mar;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Backend+con+Java+y+Spring+Boot;Python%2C+Django%2C+Node.js+y+m%C3%A1s;Convierto+caf%C3%A9+en+c%C3%B3digo" alt="Jairo Varón - Desarrollador de Software"/>
 </a>
