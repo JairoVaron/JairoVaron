@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/jairo-de-jesus-var%C3%B3n-hern%C3%A1ndez-590648323/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/JairoVaron">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub"/>
-</a>
 
 <br>
 
