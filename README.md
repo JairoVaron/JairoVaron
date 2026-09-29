@@ -252,8 +252,8 @@ Calculadora de notas y proyección académica.
 <br>
 
 ```python
-def hello_world():
-    print("Hello, world!")
+def hello_world(func):
+    func("Hello, world!")
 
 hello_world(print)
 ```
