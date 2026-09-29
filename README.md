@@ -205,14 +205,9 @@ Calculadora de notas y proyección académica.
 
 <br>
 
-<!-- Estas tarjetas las genera el workflow perfil.yml y se guardan en tu propio repositorio -->
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Resumen del perfil"/>
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/3-stats.svg" alt="Estadísticas de GitHub"/>
-
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositorios por lenguaje"/>
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Lenguaje con más commits"/>
-
-<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Horario más productivo"/>
+<a href="https://github.com/JairoVaron?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJairoVaron&query=%24.public_repos&label=Repositorios&logo=github&logoColor=white&style=for-the-badge&color=FF512F" alt="Repositorios públicos"/></a>
+<a href="https://github.com/JairoVaron?tab=followers"><img src="https://img.shields.io/github/followers/JairoVaron?label=Seguidores&logo=github&logoColor=white&style=for-the-badge&color=DD2476" alt="Seguidores"/></a>
+<a href="https://github.com/JairoVaron?tab=following"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJairoVaron&query=%24.following&label=Siguiendo&logo=github&logoColor=white&style=for-the-badge&color=7928CA" alt="Siguiendo"/></a>
 
 </div>
 
@@ -223,11 +218,11 @@ Calculadora de notas y proyección académica.
 
 <br>
 
-<!-- La serpiente la genera el workflow perfil.yml en la rama output -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JairoVaron/JairoVaron/output/github-snake-dark.svg"/>
-  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/output/github-snake.svg"/>
-</picture>
+<a href="https://github.com/JairoVaron">
+<img src="https://ghchart.rshah.org/DD2476/JairoVaron" width="100%" alt="Gráfica de contribuciones de JairoVaron"/>
+</a>
+
+<sub>Contribuciones del último año</sub>
 
 </div>
 
@@ -249,3 +244,18 @@ Calculadora de notas y proyección académica.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF512F,45:DD2476,100:7928CA" width="100%" alt=""/>
+
+<!--
+OPCIONAL: tarjetas y serpiente generadas por el workflow perfil.yml.
+Cuando el workflow haya corrido con exito y veas la carpeta
+profile-summary-card-output en tu repo y la rama output,
+quita las marcas de comentario de este bloque y pegalo donde quieras.
+
+<div align="center">
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Resumen del perfil"/>
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/3-stats.svg" alt="Estadísticas de GitHub"/>
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositorios por lenguaje"/>
+<img width="49%" src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Lenguaje con más commits"/>
+<img src="https://raw.githubusercontent.com/JairoVaron/JairoVaron/output/github-snake.svg" alt="Serpiente de contribuciones"/>
+</div>
+-->
