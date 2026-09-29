@@ -156,11 +156,11 @@ Calculadora de notas y proyección académica.
 
 <div align="center">
 
-<a href="https://github.com/JairoVaron">
+
 <img src="https://github-readme-stats.vercel.app/api?username=JairoVaron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="165"/>
 </a>
 
-<a href="https://github.com/JairoVaron">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoVaron&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165"/>
 </a>
 
