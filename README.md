@@ -33,12 +33,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:C1440E,100:8E2A1C&text=Sobre%20m%C3%AD&fontSize=28&fontColor=FFF5E1&fontAlign=50&fontAlignY=50" width="100%" alt="Sobre mí"/>
 </div>
 
-```python
-def hello_world():
-    print("Hello, world!")
-hello_world(print)
-```
-
 ```text
                         .  .  .
                    .   \  |  /   .
@@ -255,7 +249,13 @@ Calculadora de notas y proyección académica.
 <a href="https://www.linkedin.com/in/jairo-de-jesus-var%C3%B3n-hern%C3%A1ndez-590648323/"><img src="https://img.shields.io/badge/LinkedIn-Jairo%20Var%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/JairoVaron"><img src="https://img.shields.io/badge/GitHub-JairoVaron-2B1810?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br><br>
+<br>
+
+```python
+def hello_world():
+    print("Hello, world!")
+hello_world(print)
+```
 
 <i>Si algún proyecto te gustó, regálame una estrella.</i>
 
