@@ -102,7 +102,7 @@ jairo = {
 
 #### [Ekko](https://github.com/JairoVaron/ekko)
 
-Plataforma de comunicación social en tiempo real. Proyecto enfocado en la comunicación instantánea mediante WebSocket, con backend en Java y Spring Boot, seguridad y persistencia de datos.
+Plataforma de comunicación social en tiempo real.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
