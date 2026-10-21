@@ -47,7 +47,7 @@ jairo = {
     "backend": ["Spring Boot", "Django", "Node.js", "Express.js"],
     "basesDeDatos": ["MySQL", "PostgreSQL", "SQL Server", "Oracle"],
     "aprendiendo": ["Docker", "Oracle", "PostgreSQL", "SQL Server"],
-    "proyectos": ["EnlaceExpress", "SmartRoute"],
+    "proyectos": ["Ekko", "EnlaceExpress", "SmartRoute"],
     "objetivo": "Crear software que resuelva problemas reales"
 }
 ```
@@ -72,11 +72,13 @@ jairo = {
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/WebSocket-1B998B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -98,7 +100,27 @@ jairo = {
 
 <td width="50%" valign="top">
 
+#### [Ekko](https://github.com/JairoVaron/ekko)
+
+Plataforma de comunicación social en tiempo real. Proyecto enfocado en la comunicación instantánea mediante WebSocket, con backend en Java y Spring Boot, seguridad y persistencia de datos.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/WebSocket_STOMP-1B998B?style=flat-square" alt="WebSocket STOMP"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+
+<img src="https://img.shields.io/github/stars/JairoVaron/ekko?style=flat-square&color=F6C177&label=estrellas" alt="Estrellas"/>
+<img src="https://img.shields.io/github/last-commit/JairoVaron/ekko?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
+
+</td>
+
+<td width="50%" valign="top">
+
 #### [CHATintegrity](https://github.com/JairoVaron/CHATintegrity)
+
 Plataforma de comunicación empresarial en tiempo real.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -111,10 +133,14 @@ Plataforma de comunicación empresarial en tiempo real.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 #### [Student CRUD](https://github.com/JairoVaron/springboot-student-crud)
-Sistema web para gestión de estudiantes.
+
+Sistema web para la gestión de estudiantes.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -126,12 +152,10 @@ Sistema web para gestión de estudiantes.
 
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" valign="top">
 
 #### [Gestión de Asistencias](https://github.com/JairoVaron/asistencia_docente_)
+
 Sistema web para gestionar docentes y asistencias.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -143,10 +167,14 @@ Sistema web para gestionar docentes y asistencias.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 #### [NóminaVerde](https://github.com/JairoVaron/sistema-gestion-empleados-java-web)
-Sistema web para gestión de empleados.
+
+Sistema web para la gestión de empleados.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Servlets-007396?style=flat-square" alt="Servlets"/>
@@ -159,12 +187,10 @@ Sistema web para gestión de empleados.
 
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" valign="top">
 
 #### [Biblioteca](https://github.com/JairoVaron/Sistema-de-Gesti-n-de-Biblioteca---JAVA)
+
 Sistema de gestión de libros para escritorio.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -176,9 +202,13 @@ Sistema de gestión de libros para escritorio.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 #### [NotaLab](https://github.com/JairoVaron/Calculadora-de-Notas)
+
 Calculadora de notas y proyección académica.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
@@ -190,18 +220,55 @@ Calculadora de notas y proyección académica.
 
 </td>
 
+<td width="50%" valign="top">
+
+#### [EnlaceExpress](https://github.com/JairoVaron)
+
+Proyecto en desarrollo relacionado con la gestión de datos y soluciones de software.
+
+<img src="https://img.shields.io/badge/En%20desarrollo-8E2A1C?style=flat-square" alt="En desarrollo"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:4A1942,100:8E2A1C&text=En%20construcci%C3%B3n&fontSize=28&fontColor=FFF5E1&fontAlign=50&fontAlignY=50" width="100%" alt="En construcción"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:4A1942,100:8E2A1C&text=Proyectos%20en%20desarrollo&fontSize=28&fontColor=FFF5E1&fontAlign=50&fontAlignY=50" width="100%" alt="Proyectos en desarrollo"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/EnlaceExpress-Base%20de%20Datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="EnlaceExpress"/>
-<img src="https://img.shields.io/badge/Ekko-Comunicacion%3%B3%20%20Social-8E2A1C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ekko"/>
+<a href="https://github.com/JairoVaron/ekko">
+  <img src="https://img.shields.io/badge/Ekko-Comunicaci%C3%B3n%20Social-8E2A1C?style=for-the-badge&logo=webrtc&logoColor=white" alt="Ekko - Comunicación Social"/>
+</a>
+
+<a href="https://github.com/JairoVaron/ekko">
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+</a>
+<a href="https://github.com/JairoVaron/ekko">
+  <img src="https://img.shields.io/badge/Spring_Boot-4.0.8-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+</a>
+<a href="https://github.com/JairoVaron/ekko">
+  <img src="https://img.shields.io/badge/PostgreSQL-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="PostgreSQL y Supabase"/>
+</a>
+<a href="https://github.com/JairoVaron/ekko">
+  <img src="https://img.shields.io/badge/WebSocket-STOMP-1B998B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket STOMP"/>
+</a>
+
+<p>
+  <a href="https://github.com/JairoVaron/ekko">Ver repositorio de Ekko</a>
+</p>
+
+<p>
+  Plataforma de comunicación social orientada a la mensajería en tiempo real, con una arquitectura basada en Java y Spring Boot, persistencia de datos y comunicación mediante WebSocket STOMP.
+</p>
+
+<a href="https://github.com/JairoVaron">
+  <img src="https://img.shields.io/badge/EnlaceExpress-Base%20de%20Datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="EnlaceExpress"/>
+</a>
 
 </div>
 
@@ -256,3 +323,5 @@ hello_world(print)
 <i>Si algún proyecto te gustó, regálame una estrella.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:C1440E,9:C1440E,10:1A1A1A,19:1A1A1A,20:F6C177,29:F6C177,30:F5EBDD,39:F5EBDD,40:1B998B,49:1B998B,50:C1440E,59:C1440E,60:1A1A1A,69:1A1A1A,70:F6C177,79:F6C177,80:F5EBDD,89:F5EBDD,90:1B998B,100:1B998B" width="100%" alt=""/>
+
+</div>
