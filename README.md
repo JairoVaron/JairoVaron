@@ -222,7 +222,7 @@ Calculadora de notas y proyección académica.
 
 <td width="50%" valign="top">
 
-#### [EnlaceExpress]([https://github.com/JairoVaron](https://github.com/BDII-2026-IISem/bdii-2026ii-jairovaron404))
+#### [EnlaceExpress](https://github.com/BDII-2026-IISem/bdii-2026ii-jairovaron404)
 
 Proyecto en desarrollo relacionado con la gestión de datos y soluciones de software.
 
