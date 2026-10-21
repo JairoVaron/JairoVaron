@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <a href="https://github.com/JairoVaron">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=E8833A&center=true&vCenter=true&width=780&height=50&lines=Hola%2C+soy+Jairo+Var%C3%B3n;Donde+el+desierto+se+encuentra+con+el+mar;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Backend+con+Java+y+Spring+Boot;Python%2C+Django%2C+Node.js+y+m%C3%A1s;Convierto+caf%C3%A9+en+c%C3%B3digo" alt="Jairo Varón - Desarrollador de Software"/>
@@ -29,14 +29,14 @@
 </div>
 
 ```text
-                        .  .  .
-                   .   \  |  /   .
-                     -- (     ) --
-                   .   /  |  \   .
-                        .  .  .
-        _.-'''-._                        _.-''-._
-   _.-''         ''-._______.-'''-.___.-''        ''-._
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       .  .  .
+                  .   \  |  /   .
+                    \-- (     ) --
+                  .   /  |  \   .
+                       .  .  .
+       \_.-'''-.\_                        \_.-''-.\_
+  \_.-''         ''-.\_________.-'''-.___.-''        ''-.\_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
 ```python
@@ -45,7 +45,9 @@ jairo = {
     "enfoque": "Desarrollo de Software",
     "lenguajes": ["Java", "Python", "JavaScript"],
     "backend": ["Spring Boot", "Django", "Node.js", "Express.js"],
-    "basesDeDatos": ["MySQL", "PostgreSQL", "SQL Server", "Oracle"],
+    "basesDeDatos": [
+        "MySQL", "PostgreSQL", "SQL Server", "Oracle"
+    ],
     "aprendiendo": ["Docker", "Oracle", "PostgreSQL", "SQL Server"],
     "proyectos": ["Ekko", "EnlaceExpress", "SmartRoute"],
     "objetivo": "Crear software que resuelva problemas reales"
@@ -78,7 +80,12 @@ jairo = {
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -97,7 +104,6 @@ jairo = {
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 #### [Ekko](https://github.com/JairoVaron/ekko)
@@ -116,7 +122,6 @@ Plataforma de comunicación social en tiempo real.
 <img src="https://img.shields.io/github/last-commit/JairoVaron/ekko?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 <td width="50%" valign="top">
 
 #### [CHATintegrity](https://github.com/JairoVaron/CHATintegrity)
@@ -132,10 +137,8 @@ Plataforma de comunicación empresarial en tiempo real.
 <img src="https://img.shields.io/github/last-commit/JairoVaron/CHATintegrity?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 #### [Student CRUD](https://github.com/JairoVaron/springboot-student-crud)
@@ -151,7 +154,6 @@ Sistema web para la gestión de estudiantes.
 <img src="https://img.shields.io/github/last-commit/JairoVaron/springboot-student-crud?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 <td width="50%" valign="top">
 
 #### [Gestión de Asistencias](https://github.com/JairoVaron/asistencia_docente_)
@@ -166,10 +168,8 @@ Sistema web para gestionar docentes y asistencias.
 <img src="https://img.shields.io/github/last-commit/JairoVaron/asistencia_docente_?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 #### [NóminaVerde](https://github.com/JairoVaron/sistema-gestion-empleados-java-web)
@@ -186,7 +186,6 @@ Sistema web para la gestión de empleados.
 <img src="https://img.shields.io/github/last-commit/JairoVaron/sistema-gestion-empleados-java-web?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 <td width="50%" valign="top">
 
 #### [Biblioteca](https://github.com/JairoVaron/Sistema-de-Gesti-n-de-Biblioteca---JAVA)
@@ -201,10 +200,8 @@ Sistema de gestión de libros para escritorio.
 <img src="https://img.shields.io/github/last-commit/JairoVaron/Sistema-de-Gesti-n-de-Biblioteca---JAVA?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 #### [NotaLab](https://github.com/JairoVaron/Calculadora-de-Notas)
@@ -219,18 +216,22 @@ Calculadora de notas y proyección académica.
 <img src="https://img.shields.io/github/last-commit/JairoVaron/Calculadora-de-Notas?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 <td width="50%" valign="top">
 
 #### [EnlaceExpress](https://github.com/BDII-2026-IISem/bdii-2026ii-jairovaron404)
 
-Proyecto en desarrollo relacionado con la gestión de datos y soluciones de software.
+Sistema académico de gestión de envíos, seguimiento y facturación con cuatro motores de bases de datos.
 
-<img src="https://img.shields.io/badge/En%20desarrollo-8E2A1C?style=flat-square" alt="En desarrollo"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+
+<img src="https://img.shields.io/github/last-commit/BDII-2026-IISem/bdii-2026ii-jairovaron404?style=flat-square&color=C1440E&label=actualizado" alt="Última actualización"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -245,6 +246,8 @@ Proyecto en desarrollo relacionado con la gestión de datos y soluciones de soft
   <img src="https://img.shields.io/badge/Ekko-Comunicaci%C3%B3n%20Social-8E2A1C?style=for-the-badge&logo=webrtc&logoColor=white" alt="Ekko - Comunicación Social"/>
 </a>
 
+<br>
+
 <a href="https://github.com/JairoVaron/ekko">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
 </a>
@@ -258,17 +261,17 @@ Proyecto en desarrollo relacionado con la gestión de datos y soluciones de soft
   <img src="https://img.shields.io/badge/WebSocket-STOMP-1B998B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket STOMP"/>
 </a>
 
-<p>
-  <a href="https://github.com/JairoVaron/ekko">Ver repositorio de Ekko</a>
-</p>
+<p><a href="https://github.com/JairoVaron/ekko">Ver repositorio de Ekko</a></p>
 
-<p>
-  Plataforma de comunicación social orientada a la mensajería en tiempo real, con una arquitectura basada en Java y Spring Boot, persistencia de datos y comunicación mediante WebSocket STOMP.
-</p>
+<p>Plataforma de comunicación social orientada a la mensajería en tiempo real, con una arquitectura basada en Java y Spring Boot, persistencia de datos y comunicación mediante WebSocket STOMP.</p>
 
-<a href="https://github.com/JairoVaron">
+<a href="https://github.com/BDII-2026-IISem/bdii-2026ii-jairovaron404">
   <img src="https://img.shields.io/badge/EnlaceExpress-Base%20de%20Datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="EnlaceExpress"/>
 </a>
+
+<p>Sistema académico multimotor para gestionar envíos, seguimiento y facturación, con documentación de bases de datos y backend Django en desarrollo.</p>
+
+<a href="https://github.com/BDII-2026-IISem/bdii-2026ii-jairovaron404">Ver repositorio de EnlaceExpress</a>
 
 </div>
 
@@ -293,7 +296,7 @@ Proyecto en desarrollo relacionado con la gestión de datos y soluciones de soft
 <br>
 
 <a href="https://github.com/JairoVaron">
-<img src="https://ghchart.rshah.org/C1440E/JairoVaron" width="100%" alt="Gráfica de contribuciones de JairoVaron"/>
+  <img src="https://ghchart.rshah.org/C1440E/JairoVaron" width="100%" alt="Gráfica de contribuciones de JairoVaron"/>
 </a>
 
 <sub>Mis contribuciones del último año</sub>
