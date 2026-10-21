@@ -201,7 +201,7 @@ Calculadora de notas y proyección académica.
 <br>
 
 <img src="https://img.shields.io/badge/EnlaceExpress-Base%20de%20Datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="EnlaceExpress"/>
-<img src="https://img.shields.io/badge/Ekko-Plataforma%C3%B3n%20de%20Social-8E2A1C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ekko"/>
+<img src="https://img.shields.io/badge/Ekko-Comunicacion%3%B3%20%20Social-8E2A1C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ekko"/>
 
 </div>
 
